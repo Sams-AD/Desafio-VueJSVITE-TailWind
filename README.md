@@ -29,7 +29,7 @@ yarn dev
 
 # Passo 4: Visualizar o Projeto no Navegador
 Abra o seu navegador preferido e visite o seguinte endereço:
-http://localhost:3000
+http://localhost:5173/(Ou outra conforme aparecer no seu terminal depois de executar o passo 3)
 Você deve ver o projeto Vue.js em execução, incluindo o gráfico criado com ApexCharts.
 
 # Passo 5: Explorar o Código
